@@ -5,12 +5,12 @@
 permalink:        pretty
 
 # Setup
-title:            SBT skeleton
-tagline:          'Skeleton Scala project using sbt'
-description:      'Skeleton project building multiple Scala versions for both JVM and Javascript with API documentation and executable tutorial'
+title:            XML utilities
+tagline:          'Serialize valid XML from parsed Scala objects'
+description:      ''
 
 
-baseurl: '/skelly/'
+baseurl: '/xmlutils/'
 
 
 author:
@@ -18,6 +18,6 @@ author:
 
 
 links:
-  - title:  Github repository for skelly
-    url:  https://github.com/neelsmith/skelly
+  - title:  Github repository for xmlutils
+    url:  https://github.com/neelsmith/xmlutils
     external: true
