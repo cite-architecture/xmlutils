@@ -1,0 +1,23 @@
+
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            SBT skeleton
+tagline:          'Skeleton Scala project using sbt'
+description:      'Skeleton project building multiple Scala versions for both JVM and Javascript with API documentation and executable tutorial'
+
+
+baseurl: '/skelly/'
+
+
+author:
+  name:           'Neel Smith'
+
+
+links:
+  - title:  Github repository for skelly
+    url:  https://github.com/neelsmith/skelly
+    external: true
