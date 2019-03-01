@@ -3,10 +3,10 @@
 
 ## What it is
 
-Utilities for serializing valid XML from objects parsed with native Scala XML parser.
+JVM utilities for working with structured data in XML formats.
 
 
-## Current version:  1.0.0
+## Current version:  2.0.0
 
 See [release notes](releases)
 
@@ -17,4 +17,4 @@ See [release notes](releases)
 
 ## Documentation
 
-See <https://neelsmith.github.io/xmlutils/>.
+See some at <https://neelsmith.github.io/xmlutils/>.

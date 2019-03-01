@@ -52,11 +52,11 @@ object TextReader {
     collectText(n,"").replaceAll("[\\s]+", " ").trim
   }
 
-/*
-  def stringNormalize(s: String): String = {
-    Normalizer.normalize(s,Form.NFC).trim.replaceAll("[ ]+"," ")
+
+  def sanitize(s: String): String = {
+    Normalizer.normalize(s,Normalizer.Form.NFC).trim.replaceAll("[ ]+"," ")
   }
-*/
+
 
   /** Recursively get list of code points for a String.
   *
