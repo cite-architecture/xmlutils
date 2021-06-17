@@ -6,7 +6,7 @@
 JVM utilities for working with structured data in XML formats.
 
 
-## Current version:  2.0.0
+## Current version:  2.0.1
 
 See [release notes](releases)
 
